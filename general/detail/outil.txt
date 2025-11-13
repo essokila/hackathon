@@ -1,0 +1,55 @@
+---------------| web |
+
+SQLi → sqlmap, Burp, sqlmap automation.
+XSS → Burp/DalFox/XSStrike + payload lists.
+LFI/RFI → ffuf (traversal wordlist), nuclei templates, manual php://filter tests.
+SSRF → httpx + ssrfmap, tenter metadata endpoints.
+RCE / Command injection → Burp Intruder, commix (test), manual payloads.
+IDOR → scripts (curl/Burp) pour modifier IDs, check auth.
+File upload → Burp, wfuzz, tests webshells.
+JWT / auth → jwt_tool, check alg none, key brute.
+XXE → XXEinjector patterns, nuclei templates for XXE.
+
+
+
+
+
+---------------| forensic |
+
+
+
+
+---------------| reseau |
+
+
+
+
+
+---------------| reverse engineering |
+
+
+
+
+---------------| exploitation binaire |
+
+
+
+---------------| misc |
+
+
+
+---------------| crypto |
+
+
+
+---------------| osint |
+
+
+
+
+
+
+
+
+
+
